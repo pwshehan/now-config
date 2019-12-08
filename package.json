@@ -1,0 +1,12 @@
+{
+  "name": "now-config",
+  "version": "1.0.0",
+  "description": "CLI Using Node.Js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shehan Pramitha <pwshehan@gmail.com> (https://github.com/pwshehan/)",
+  "license": "ISC"
+}
